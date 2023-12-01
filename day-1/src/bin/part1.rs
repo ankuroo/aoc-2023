@@ -1,5 +1,3 @@
-use std::fmt::format;
-
 fn main() {
     let input = include_str!("./input1.txt");
     let output = part1(input);
@@ -27,9 +25,9 @@ mod tests {
     #[test]
     fn part1_works() {
         let result = part1("1abc2
-pqr3stu8vwx
-a1b2c3d4e5f
-treb7uchet");
+            pqr3stu8vwx
+            a1b2c3d4e5f
+            treb7uchet");
         assert_eq!(result, "142");
     }
 }

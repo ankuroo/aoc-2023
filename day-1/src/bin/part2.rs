@@ -1,6 +1,3 @@
-use std::fmt::format;
-
-
 fn main() {
     let input = include_str!("./input1.txt");
     let output = part2(input);
@@ -27,9 +24,7 @@ fn part2(input: &str)  -> String{
 
         let mut newline = String::from(line);
         for (from, to) in digits{
-
-        newline = newline.replace(from, to);
-
+            newline = newline.replace(from, to);
         }
 
         let nums = newline.chars()
