@@ -1,1 +1,1 @@
-/Users/ankur/Documents/Projects/aoc/aoc-2023/target/debug/part2: /Users/ankur/Documents/Projects/aoc/aoc-2023/day-2/src/bin/input.txt /Users/ankur/Documents/Projects/aoc/aoc-2023/day-2/src/bin/part2.rs
+C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\target\debug\part2.exe: C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\day-3\src\bin\input.txt C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\day-3\src\bin\part2.rs
