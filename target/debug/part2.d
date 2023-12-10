@@ -1,1 +1,1 @@
-C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\target\debug\part2.exe: C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\day-4\src\bin\input.txt C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\day-4\src\bin\part2.rs
+C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\target\debug\part2.exe: C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\day-5\src\bin\input.txt C:\Users\ankur\Documents\Projects\Rust\aoc\aoc-2023\day-5\src\bin\part2.rs
