@@ -17,7 +17,7 @@ fn get_map(input: &str) -> Vec<Transform> {
         let dest = line.trim().split_whitespace().collect::<Vec<&str>>()[0].parse::<u32>().unwrap();
         let source = line.trim().split_whitespace().collect::<Vec<&str>>()[1].parse::<u32>().unwrap();
         let range = line.trim().split_whitespace().collect::<Vec<&str>>()[2].parse::<u32>().unwrap();
-        acc.push(Transform{range_start: source, range_end: source.wrapping_add(range), difference: dest.wrapping_sub(source) as i32});
+        acc.push(Transform{range_start: source, range_end: source.wrapping_add(range-1), difference: dest.wrapping_sub(source) as i32});
         acc
 
     })
